@@ -1,4 +1,11 @@
 {
-  "ExpandedNodes": [],
+  "ExpandedNodes": [
+    "",
+    "\\DevHelper",
+    "\\DevHelper.Data",
+    "\\DevHelper.Teste",
+    "\\DevHelper\\Properties"
+  ],
+  "SelectedNode": "\\DevHelper.Data\\Interfaces",
   "PreviewInSolutionExplorer": false
 }
