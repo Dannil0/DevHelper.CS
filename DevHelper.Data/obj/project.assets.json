@@ -4971,19 +4971,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\pedre\\.nuget\\packages\\": {}
+    "C:\\Users\\jvsdi\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pedre\\OneDrive\\Documentos\\GitHub\\DevHelper.CS\\DevHelper.Data\\DevHelper.Data.csproj",
+      "projectUniqueName": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper.Data\\DevHelper.Data.csproj",
       "projectName": "DevHelper.Data",
-      "projectPath": "C:\\Users\\pedre\\OneDrive\\Documentos\\GitHub\\DevHelper.CS\\DevHelper.Data\\DevHelper.Data.csproj",
-      "packagesPath": "C:\\Users\\pedre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pedre\\OneDrive\\Documentos\\GitHub\\DevHelper.CS\\DevHelper.Data\\obj\\",
+      "projectPath": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper.Data\\DevHelper.Data.csproj",
+      "packagesPath": "C:\\Users\\jvsdi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper.Data\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\pedre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jvsdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4998,8 +5003,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\pedre\\OneDrive\\Documentos\\GitHub\\DevHelper.CS\\DevHelper.Teste\\DevHelper.Teste.csproj": {
-              "projectPath": "C:\\Users\\pedre\\OneDrive\\Documentos\\GitHub\\DevHelper.CS\\DevHelper.Teste\\DevHelper.Teste.csproj"
+            "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper.Teste\\DevHelper.Teste.csproj": {
+              "projectPath": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper.Teste\\DevHelper.Teste.csproj"
             }
           }
         }

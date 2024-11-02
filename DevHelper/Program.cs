@@ -1,7 +1,19 @@
+using DevHelper.Data.Interfaces;
+using DevHelper.Data.Models;
+using DevHelper.Data.Repositories;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages().AddRazorRuntimeCompilation();
+
+var config = builder.Configuration;
+
+builder.Services.AddDbContext<DBdevhelperContext>(options => options.UseSqlServer(config.GetConnectionString("DBdevhelperConnection")));
+
+builder.Services.AddScoped<iProblemaRepository, ProblemaRepository>();
+builder.Services.AddScoped<iProblemaRepositoryAsync, ProblemaRepository>();
 
 var app = builder.Build();
 
