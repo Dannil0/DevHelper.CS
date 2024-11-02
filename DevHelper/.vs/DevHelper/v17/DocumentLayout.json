@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\repos\\DevHelper.CS\\DevHelper\\",
+  "WorkspaceRootPath": "C:\\Users\\pedre\\OneDrive\\Documentos\\GitHub\\DevHelper.CS\\DevHelper\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A71493C-BBDF-467B-A105-7CCF85E669E6}|Solution Items{4A71493C-BBDF-467B-A105-7CCF85E669E6}|D:\\repos\\DevHelper.CS\\DevHelper\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "AbsoluteMoniker": "D:0:0:{4A71493C-BBDF-467B-A105-7CCF85E669E6}|Solution Items{4A71493C-BBDF-467B-A105-7CCF85E669E6}|C:\\Users\\pedre\\OneDrive\\Documentos\\GitHub\\DevHelper.CS\\DevHelper\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{4A71493C-BBDF-467B-A105-7CCF85E669E6}|Solution Items{4A71493C-BBDF-467B-A105-7CCF85E669E6}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|d:\\repos\\devhelper.cs\\devhelper\\pages\\shared\\_menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|c:\\users\\pedre\\onedrive\\documentos\\github\\devhelper.cs\\devhelper\\pages\\shared\\_menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|solutionrelative:pages\\shared\\_menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|d:\\repos\\devhelper.cs\\devhelper\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|c:\\users\\pedre\\onedrive\\documentos\\github\\devhelper.cs\\devhelper\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|d:\\repos\\devhelper.cs\\devhelper\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|c:\\users\\pedre\\onedrive\\documentos\\github\\devhelper.cs\\devhelper\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -36,9 +36,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": ".gitignore",
-              "DocumentMoniker": "D:\\repos\\DevHelper.CS\\DevHelper\\.gitignore",
+              "DocumentMoniker": "C:\\Users\\pedre\\OneDrive\\Documentos\\GitHub\\DevHelper.CS\\DevHelper\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "D:\\repos\\DevHelper.CS\\DevHelper\\.gitignore",
+              "ToolTip": "C:\\Users\\pedre\\OneDrive\\Documentos\\GitHub\\DevHelper.CS\\DevHelper\\.gitignore",
               "RelativeToolTip": ".gitignore",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
@@ -49,9 +49,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\repos\\DevHelper.CS\\DevHelper\\Pages\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\pedre\\OneDrive\\Documentos\\GitHub\\DevHelper.CS\\DevHelper\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\repos\\DevHelper.CS\\DevHelper\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\pedre\\OneDrive\\Documentos\\GitHub\\DevHelper.CS\\DevHelper\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -61,9 +61,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "site.css",
-              "DocumentMoniker": "D:\\repos\\DevHelper.CS\\DevHelper\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "C:\\Users\\pedre\\OneDrive\\Documentos\\GitHub\\DevHelper.CS\\DevHelper\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "D:\\repos\\DevHelper.CS\\DevHelper\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\pedre\\OneDrive\\Documentos\\GitHub\\DevHelper.CS\\DevHelper\\wwwroot\\css\\site.css",
               "RelativeToolTip": "wwwroot\\css\\site.css",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAADoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -73,14 +73,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "_Menu.cshtml",
-              "DocumentMoniker": "D:\\repos\\DevHelper.CS\\DevHelper\\Pages\\Shared\\_Menu.cshtml",
+              "DocumentMoniker": "C:\\Users\\pedre\\OneDrive\\Documentos\\GitHub\\DevHelper.CS\\DevHelper\\Pages\\Shared\\_Menu.cshtml",
               "RelativeDocumentMoniker": "Pages\\Shared\\_Menu.cshtml",
-              "ToolTip": "D:\\repos\\DevHelper.CS\\DevHelper\\Pages\\Shared\\_Menu.cshtml",
+              "ToolTip": "C:\\Users\\pedre\\OneDrive\\Documentos\\GitHub\\DevHelper.CS\\DevHelper\\Pages\\Shared\\_Menu.cshtml",
               "RelativeToolTip": "Pages\\Shared\\_Menu.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T08:12:07.127Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-02T08:12:07.127Z"
             }
           ]
         }

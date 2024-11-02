@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\repos\\DevHelper.CS\\DevHelper.Teste\\DevHelper.Teste.csproj": {}
+    "C:\\Users\\pedre\\OneDrive\\Documentos\\GitHub\\DevHelper.CS\\DevHelper.Teste\\DevHelper.Teste.csproj": {}
   },
   "projects": {
-    "D:\\repos\\DevHelper.CS\\DevHelper.Teste\\DevHelper.Teste.csproj": {
+    "C:\\Users\\pedre\\OneDrive\\Documentos\\GitHub\\DevHelper.CS\\DevHelper.Teste\\DevHelper.Teste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\DevHelper.CS\\DevHelper.Teste\\DevHelper.Teste.csproj",
+        "projectUniqueName": "C:\\Users\\pedre\\OneDrive\\Documentos\\GitHub\\DevHelper.CS\\DevHelper.Teste\\DevHelper.Teste.csproj",
         "projectName": "DevHelper.Teste",
-        "projectPath": "D:\\repos\\DevHelper.CS\\DevHelper.Teste\\DevHelper.Teste.csproj",
-        "packagesPath": "C:\\Users\\danni\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\DevHelper.CS\\DevHelper.Teste\\obj\\",
+        "projectPath": "C:\\Users\\pedre\\OneDrive\\Documentos\\GitHub\\DevHelper.CS\\DevHelper.Teste\\DevHelper.Teste.csproj",
+        "packagesPath": "C:\\Users\\pedre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pedre\\OneDrive\\Documentos\\GitHub\\DevHelper.CS\\DevHelper.Teste\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\danni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pedre\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
