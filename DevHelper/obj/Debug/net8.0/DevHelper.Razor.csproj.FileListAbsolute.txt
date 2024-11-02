@@ -643,3 +643,4 @@ D:\repos\DevHelper.CS\DevHelper\bin\Debug\net8.0\DevHelper.Teste.pdb
 D:\repos\DevHelper.CS\DevHelper\obj\Debug\net8.0\DevHelper.Razor.csproj.AssemblyReference.cache
 D:\repos\DevHelper.CS\DevHelper\obj\Debug\net8.0\DevHelper.Razor.MvcApplicationPartsAssemblyInfo.cs
 D:\repos\DevHelper.CS\DevHelper\obj\Debug\net8.0\DevHelpe.343F3190.Up2Date
+D:\repos\DevHelper.CS\DevHelper\obj\Debug\net8.0\DevHelper.Razor.sourcelink.json

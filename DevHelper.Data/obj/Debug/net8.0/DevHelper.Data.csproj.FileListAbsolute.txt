@@ -25,3 +25,4 @@ D:\repos\DevHelper.CS\DevHelper.Data\obj\Debug\net8.0\refint\DevHelper.Data.dll
 D:\repos\DevHelper.CS\DevHelper.Data\obj\Debug\net8.0\DevHelper.Data.pdb
 D:\repos\DevHelper.CS\DevHelper.Data\obj\Debug\net8.0\DevHelper.Data.genruntimeconfig.cache
 D:\repos\DevHelper.CS\DevHelper.Data\obj\Debug\net8.0\ref\DevHelper.Data.dll
+D:\repos\DevHelper.CS\DevHelper.Data\obj\Debug\net8.0\DevHelper.Data.sourcelink.json

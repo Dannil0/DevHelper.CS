@@ -20,3 +20,39 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.pesquisar {
+    margin-right: 5px; /* Ajuste a margem como preferir */
+}
+
+.btnPesquisar {
+    border-radius:8px;
+    padding: 5px
+}
+
+.barraDePesquisar {
+    border-radius: 8px;
+    width: 295px;
+    padding:5px
+}
+
+.menuSuperior {
+    padding: 6px;
+    background-color: rgb(34, 34, 34);
+}
+
+#LogoDaPagina {
+    font-family: 'Russo One',sans-serif;
+    font-size: 32px;
+    color: #22ffb6;
+}
+
+/*.nav-item {
+    margin-bottom: 2px:
+}*/
+
+.MenuSuperior{
+    justify-content: center;
+    display:flex;
+    flex-direction:column;
+}

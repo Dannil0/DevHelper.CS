@@ -3,21 +3,16 @@
   "WorkspaceRootPath": "D:\\repos\\DevHelper.CS\\DevHelper\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\repos\\DevHelper.CS\\DevHelper.Data\\Models\\DBdevhelperContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|d:\\repos\\devhelper.cs\\devhelper\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F849E4C-C83C-4FAD-8D87-1BB205164B18}|..\\DevHelper.Data\\DevHelper.Data.csproj|d:\\repos\\devhelper.cs\\devhelper.data\\devhelper.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|d:\\repos\\devhelper.cs\\devhelper\\pages\\shared\\_menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|solutionrelative:pages\\shared\\_menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|d:\\repos\\devhelper.cs\\devhelper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0198E7B-CF17-4D55-A659-5D4554AD8D2A}|..\\DevHelper.Teste\\DevHelper.Teste.csproj|d:\\repos\\devhelper.cs\\devhelper.teste\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|d:\\repos\\devhelper.cs\\devhelper\\devhelper.razor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|solutionrelative:devhelper.razor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|d:\\repos\\devhelper.cs\\devhelper\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,58 +22,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DBdevhelperContext.cs",
-              "DocumentMoniker": "D:\\repos\\DevHelper.CS\\DevHelper.Data\\Models\\DBdevhelperContext.cs",
-              "RelativeDocumentMoniker": "..\\DevHelper.Data\\Models\\DBdevhelperContext.cs",
-              "ToolTip": "D:\\repos\\DevHelper.CS\\DevHelper.Data\\Models\\DBdevhelperContext.cs",
-              "RelativeToolTip": "..\\DevHelper.Data\\Models\\DBdevhelperContext.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAcwCEAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T07:11:34.719Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DevHelper.Data",
-              "DocumentMoniker": "D:\\repos\\DevHelper.CS\\DevHelper.Data\\DevHelper.Data.csproj",
-              "RelativeDocumentMoniker": "..\\DevHelper.Data\\DevHelper.Data.csproj",
-              "ToolTip": "D:\\repos\\DevHelper.CS\\DevHelper.Data\\DevHelper.Data.csproj",
-              "RelativeToolTip": "..\\DevHelper.Data\\DevHelper.Data.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-02T07:10:08.439Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\repos\\DevHelper.CS\\DevHelper\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\repos\\DevHelper.CS\\DevHelper\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T07:09:12.576Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\repos\\DevHelper.CS\\DevHelper\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\repos\\DevHelper.CS\\DevHelper\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T09:03:38.804Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DevHelper.Razor",
-              "DocumentMoniker": "D:\\repos\\DevHelper.CS\\DevHelper\\DevHelper.Razor.csproj",
-              "RelativeDocumentMoniker": "DevHelper.Razor.csproj",
-              "ToolTip": "D:\\repos\\DevHelper.CS\\DevHelper\\DevHelper.Razor.csproj",
-              "RelativeToolTip": "DevHelper.Razor.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-02T07:04:28.234Z",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\repos\\DevHelper.CS\\DevHelper\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "D:\\repos\\DevHelper.CS\\DevHelper\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAB0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-02T08:49:01.591Z",
               "EditorCaption": ""
             },
             {
@@ -87,15 +56,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "D:\\repos\\DevHelper.CS\\DevHelper.Teste\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "..\\DevHelper.Teste\\UnitTest1.cs",
-              "ToolTip": "D:\\repos\\DevHelper.CS\\DevHelper.Teste\\UnitTest1.cs",
-              "RelativeToolTip": "..\\DevHelper.Teste\\UnitTest1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T07:04:57.365Z",
+              "DocumentIndex": 1,
+              "Title": "_Menu.cshtml",
+              "DocumentMoniker": "D:\\repos\\DevHelper.CS\\DevHelper\\Pages\\Shared\\_Menu.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Menu.cshtml",
+              "ToolTip": "D:\\repos\\DevHelper.CS\\DevHelper\\Pages\\Shared\\_Menu.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Menu.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T08:12:07.127Z",
               "EditorCaption": ""
             }
           ]
