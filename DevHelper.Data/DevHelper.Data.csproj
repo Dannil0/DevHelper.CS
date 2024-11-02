@@ -19,8 +19,4 @@
     <ProjectReference Include="..\DevHelper.Teste\DevHelper.Teste.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Repository\" />
-  </ItemGroup>
-
 </Project>

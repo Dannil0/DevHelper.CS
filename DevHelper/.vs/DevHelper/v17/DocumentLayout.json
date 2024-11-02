@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\pedre\\OneDrive\\Documentos\\GitHub\\DevHelper.CS\\DevHelper\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6F849E4C-C83C-4FAD-8D87-1BB205164B18}|..\\DevHelper.Data\\DevHelper.Data.csproj|c:\\users\\pedre\\onedrive\\documentos\\github\\devhelper.cs\\devhelper.data\\repository\\inferno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4A71493C-BBDF-467B-A105-7CCF85E669E6}|Solution Items{4A71493C-BBDF-467B-A105-7CCF85E669E6}|C:\\Users\\pedre\\OneDrive\\Documentos\\GitHub\\DevHelper.CS\\DevHelper\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{4A71493C-BBDF-467B-A105-7CCF85E669E6}|Solution Items{4A71493C-BBDF-467B-A105-7CCF85E669E6}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
@@ -35,6 +38,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "inferno.cs",
+              "DocumentMoniker": "C:\\Users\\pedre\\OneDrive\\Documentos\\GitHub\\DevHelper.CS\\DevHelper.Data\\Repository\\inferno.cs",
+              "RelativeDocumentMoniker": "..\\DevHelper.Data\\Repository\\inferno.cs",
+              "ToolTip": "C:\\Users\\pedre\\OneDrive\\Documentos\\GitHub\\DevHelper.CS\\DevHelper.Data\\Repository\\inferno.cs",
+              "RelativeToolTip": "..\\DevHelper.Data\\Repository\\inferno.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T19:24:54.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\pedre\\OneDrive\\Documentos\\GitHub\\DevHelper.CS\\DevHelper\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -47,7 +63,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\pedre\\OneDrive\\Documentos\\GitHub\\DevHelper.CS\\DevHelper\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
@@ -59,7 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\pedre\\OneDrive\\Documentos\\GitHub\\DevHelper.CS\\DevHelper\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
@@ -71,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "_Menu.cshtml",
               "DocumentMoniker": "C:\\Users\\pedre\\OneDrive\\Documentos\\GitHub\\DevHelper.CS\\DevHelper\\Pages\\Shared\\_Menu.cshtml",
               "RelativeDocumentMoniker": "Pages\\Shared\\_Menu.cshtml",
