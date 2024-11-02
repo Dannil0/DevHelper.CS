@@ -3,23 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\pedre\\OneDrive\\Documentos\\GitHub\\DevHelper.CS\\DevHelper\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6F849E4C-C83C-4FAD-8D87-1BB205164B18}|..\\DevHelper.Data\\DevHelper.Data.csproj|c:\\users\\pedre\\onedrive\\documentos\\github\\devhelper.cs\\devhelper.data\\repository\\inferno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6F849E4C-C83C-4FAD-8D87-1BB205164B18}|..\\DevHelper.Data\\DevHelper.Data.csproj|c:\\users\\pedre\\onedrive\\documentos\\github\\devhelper.cs\\devhelper.data\\repository\\problemarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A71493C-BBDF-467B-A105-7CCF85E669E6}|Solution Items{4A71493C-BBDF-467B-A105-7CCF85E669E6}|C:\\Users\\pedre\\OneDrive\\Documentos\\GitHub\\DevHelper.CS\\DevHelper\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{4A71493C-BBDF-467B-A105-7CCF85E669E6}|Solution Items{4A71493C-BBDF-467B-A105-7CCF85E669E6}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{6F849E4C-C83C-4FAD-8D87-1BB205164B18}|..\\DevHelper.Data\\DevHelper.Data.csproj|c:\\users\\pedre\\onedrive\\documentos\\github\\devhelper.cs\\devhelper.data\\interface\\iproblemarepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|c:\\users\\pedre\\onedrive\\documentos\\github\\devhelper.cs\\devhelper\\pages\\shared\\_menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|solutionrelative:pages\\shared\\_menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|c:\\users\\pedre\\onedrive\\documentos\\github\\devhelper.cs\\devhelper\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|c:\\users\\pedre\\onedrive\\documentos\\github\\devhelper.cs\\devhelper\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6F849E4C-C83C-4FAD-8D87-1BB205164B18}|..\\DevHelper.Data\\DevHelper.Data.csproj|c:\\users\\pedre\\onedrive\\documentos\\github\\devhelper.cs\\devhelper.data\\interface\\iproblemarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,64 +28,41 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "inferno.cs",
-              "DocumentMoniker": "C:\\Users\\pedre\\OneDrive\\Documentos\\GitHub\\DevHelper.CS\\DevHelper.Data\\Repository\\inferno.cs",
-              "RelativeDocumentMoniker": "..\\DevHelper.Data\\Repository\\inferno.cs",
-              "ToolTip": "C:\\Users\\pedre\\OneDrive\\Documentos\\GitHub\\DevHelper.CS\\DevHelper.Data\\Repository\\inferno.cs",
-              "RelativeToolTip": "..\\DevHelper.Data\\Repository\\inferno.cs",
+              "Title": "ProblemaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pedre\\OneDrive\\Documentos\\GitHub\\DevHelper.CS\\DevHelper.Data\\Repository\\ProblemaRepository.cs",
+              "RelativeDocumentMoniker": "..\\DevHelper.Data\\Repository\\ProblemaRepository.cs",
+              "ToolTip": "C:\\Users\\pedre\\OneDrive\\Documentos\\GitHub\\DevHelper.CS\\DevHelper.Data\\Repository\\ProblemaRepository.cs",
+              "RelativeToolTip": "..\\DevHelper.Data\\Repository\\ProblemaRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T19:24:54.005Z",
+              "WhenOpened": "2024-11-02T19:48:24.347Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\pedre\\OneDrive\\Documentos\\GitHub\\DevHelper.CS\\DevHelper\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "C:\\Users\\pedre\\OneDrive\\Documentos\\GitHub\\DevHelper.CS\\DevHelper\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-11-02T11:23:42.308Z",
+              "Title": "iProblemaRepositoryAsync.cs",
+              "DocumentMoniker": "C:\\Users\\pedre\\OneDrive\\Documentos\\GitHub\\DevHelper.CS\\DevHelper.Data\\Interface\\iProblemaRepositoryAsync.cs",
+              "RelativeDocumentMoniker": "..\\DevHelper.Data\\Interface\\iProblemaRepositoryAsync.cs",
+              "ToolTip": "C:\\Users\\pedre\\OneDrive\\Documentos\\GitHub\\DevHelper.CS\\DevHelper.Data\\Interface\\iProblemaRepositoryAsync.cs",
+              "RelativeToolTip": "..\\DevHelper.Data\\Interface\\iProblemaRepositoryAsync.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T19:48:18.552Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\pedre\\OneDrive\\Documentos\\GitHub\\DevHelper.CS\\DevHelper\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\pedre\\OneDrive\\Documentos\\GitHub\\DevHelper.CS\\DevHelper\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T09:03:38.804Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\pedre\\OneDrive\\Documentos\\GitHub\\DevHelper.CS\\DevHelper\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\pedre\\OneDrive\\Documentos\\GitHub\\DevHelper.CS\\DevHelper\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAADoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-02T08:49:01.591Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_Menu.cshtml",
-              "DocumentMoniker": "C:\\Users\\pedre\\OneDrive\\Documentos\\GitHub\\DevHelper.CS\\DevHelper\\Pages\\Shared\\_Menu.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Shared\\_Menu.cshtml",
-              "ToolTip": "C:\\Users\\pedre\\OneDrive\\Documentos\\GitHub\\DevHelper.CS\\DevHelper\\Pages\\Shared\\_Menu.cshtml",
-              "RelativeToolTip": "Pages\\Shared\\_Menu.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-02T08:12:07.127Z"
+              "Title": "iProblemaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pedre\\OneDrive\\Documentos\\GitHub\\DevHelper.CS\\DevHelper.Data\\Interface\\iProblemaRepository.cs",
+              "RelativeDocumentMoniker": "..\\DevHelper.Data\\Interface\\iProblemaRepository.cs",
+              "ToolTip": "C:\\Users\\pedre\\OneDrive\\Documentos\\GitHub\\DevHelper.CS\\DevHelper.Data\\Interface\\iProblemaRepository.cs",
+              "RelativeToolTip": "..\\DevHelper.Data\\Interface\\iProblemaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T19:48:07.961Z",
+              "EditorCaption": ""
             }
           ]
         }
