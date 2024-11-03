@@ -5,20 +5,22 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
-using DevHelper.Data.Models;
+using DevHelper.Data.Model;
 
 namespace DevHelper.Razor.Pages.PgProblema
 {
     public class DetailsModel : PageModel
     {
-        private readonly DevHelper.Data.Models.DBdevhelperContext _context;
+        private readonly DevHelper.Data.Model.DBdevhelperContext _context;
 
-        public DetailsModel(DevHelper.Data.Models.DBdevhelperContext context)
+        public DetailsModel(DevHelper.Data.Model.DBdevhelperContext context)
         {
             _context = context;
         }
 
         public Problema Problema { get; set; } = default!;
+
+        public Usuario Usuario { get; set; } = default!;
 
         public async Task<IActionResult> OnGetAsync(int? id)
         {
@@ -28,6 +30,9 @@ namespace DevHelper.Razor.Pages.PgProblema
             }
 
             var problema = await _context.Problemas.FirstOrDefaultAsync(m => m.Id == id);
+            var usuario = await _context.Usuarios.FirstOrDefaultAsync(m => m.Id == problema.UsuarioId);
+
+
             if (problema == null)
             {
                 return NotFound();
@@ -35,6 +40,7 @@ namespace DevHelper.Razor.Pages.PgProblema
             else
             {
                 Problema = problema;
+                Usuario = usuario;
             }
             return Page();
         }

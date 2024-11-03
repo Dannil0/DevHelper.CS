@@ -14,9 +14,8 @@
         <form method="post">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
-                <label asp-for="Problema.Id" class="control-label"></label>
-                <input asp-for="Problema.Id" class="form-control" />
-                <span asp-validation-for="Problema.Id" class="text-danger"></span>
+                <label asp-for="Problema.UsuarioId" class="control-label"></label>
+                <select asp-for="Problema.UsuarioId" class ="form-control" asp-items="ViewBag.UsuarioId"></select>
             </div>
             <div class="form-group">
                 <label asp-for="Problema.Nome" class="control-label"></label>
@@ -31,14 +30,33 @@
             <div class="form-group">
                 <input type="submit" value="Create" class="btn btn-primary" />
             </div>
+            <h2>Upload de Arquivo</h2>
+            <input type="file" id="fileInput" multiple>
+            <ul id="fileList"></ul>
+
+
         </form>
     </div>
 </div>
 
 <div>
-    <a asp-page="Index">Back to List</a>
+    <a asp-page="../Index">Back to List</a>
 </div>
 
+<script>
+    document.getElementById('fileInput').addEventListener('change', function () {
+        const fileInput = this;
+        const fileList = document.getElementById('fileList');
+        fileList.innerHTML = ''; // Clear the list before adding new files
+
+        for (let i = 0; i < fileInput.files.length; i++) {
+            const fileName = fileInput.files[i].name;
+            const listItem = document.createElement('li');
+            listItem.textContent = fileName;
+            fileList.appendChild(listItem);
+        }
+    });
+</script>
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
 }

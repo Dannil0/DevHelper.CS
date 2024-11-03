@@ -56,3 +56,11 @@ body {
     display:flex;
     flex-direction:column;
 }
+.btnUsuario{
+    margin-left:500px;
+}
+.btnProblema {
+    margin-left: 50px;
+    width: 190px;
+}
+

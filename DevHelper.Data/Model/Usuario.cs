@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace DevHelper.Data.Models;
+namespace DevHelper.Data.Model;
 
 public partial class Usuario
 {
@@ -15,7 +15,7 @@ public partial class Usuario
 
     public string? Biografia { get; set; }
 
-    public virtual ICollection<ProblemaUsuario> ProblemaUsuarios { get; set; } = new List<ProblemaUsuario>();
+    public virtual ICollection<Problema> Problemas { get; set; } = new List<Problema>();
 
-    public virtual ICollection<SolucaoUsuario> SolucaoUsuarios { get; set; } = new List<SolucaoUsuario>();
+    public virtual ICollection<Solucao> Solucaos { get; set; } = new List<Solucao>();
 }

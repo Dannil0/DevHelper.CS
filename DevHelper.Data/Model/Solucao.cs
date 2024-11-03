@@ -1,15 +1,21 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace DevHelper.Data.Models;
+namespace DevHelper.Data.Model;
 
 public partial class Solucao
 {
     public int Id { get; set; }
 
+    public int ProblemaId { get; set; }
+
+    public int UsuarioId { get; set; }
+
     public string Descricao { get; set; } = null!;
 
     public virtual ICollection<ArquivoSolucao> ArquivoSolucaos { get; set; } = new List<ArquivoSolucao>();
 
-    public virtual ICollection<SolucaoUsuario> SolucaoUsuarios { get; set; } = new List<SolucaoUsuario>();
+    public virtual Problema Problema { get; set; } = null!;
+
+    public virtual Usuario Usuario { get; set; } = null!;
 }

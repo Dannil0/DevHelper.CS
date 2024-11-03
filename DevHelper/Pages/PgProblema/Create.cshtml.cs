@@ -5,21 +5,22 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Mvc.Rendering;
-using DevHelper.Data.Models;
+using DevHelper.Data.Model;
 
 namespace DevHelper.Razor.Pages.PgProblema
 {
     public class CreateModel : PageModel
     {
-        private readonly DevHelper.Data.Models.DBdevhelperContext _context;
+        private readonly DevHelper.Data.Model.DBdevhelperContext _context;
 
-        public CreateModel(DevHelper.Data.Models.DBdevhelperContext context)
+        public CreateModel(DevHelper.Data.Model.DBdevhelperContext context)
         {
             _context = context;
         }
 
         public IActionResult OnGet()
         {
+        ViewData["UsuarioId"] = new SelectList(_context.Usuarios, "Id", "Nome");
             return Page();
         }
 
@@ -29,15 +30,15 @@ namespace DevHelper.Razor.Pages.PgProblema
         // For more information, see https://aka.ms/RazorPagesCRUD.
         public async Task<IActionResult> OnPostAsync()
         {
-            if (!ModelState.IsValid)
-            {
-                return Page();
-            }
+            //if (!ModelState.IsValid)
+            //{
+            //    return Page();
+            //}
 
             _context.Problemas.Add(Problema);
             await _context.SaveChangesAsync();
 
-            return RedirectToPage("./Index");
+            return RedirectToPage("../Index");
         }
     }
 }

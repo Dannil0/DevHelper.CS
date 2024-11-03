@@ -5,15 +5,15 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
-using DevHelper.Data.Models;
+using DevHelper.Data.Model;
 
 namespace DevHelper.Razor.Pages.PgProblema
 {
     public class DeleteModel : PageModel
     {
-        private readonly DevHelper.Data.Models.DBdevhelperContext _context;
+        private readonly DevHelper.Data.Model.DBdevhelperContext _context;
 
-        public DeleteModel(DevHelper.Data.Models.DBdevhelperContext context)
+        public DeleteModel(DevHelper.Data.Model.DBdevhelperContext context)
         {
             _context = context;
         }

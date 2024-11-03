@@ -1,10 +1,54 @@
 ﻿@page
-@model IndexModel
+@model DevHelper.Razor.Pages.PgProblema.IndexModel
+
 @{
-    ViewData["Title"] = "DevHelper";
+    ViewData["Title"] = "Feed";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<h1>Feed</h1>
+
+@* <p>
+    <a asp-page="Create">Create New</a>
+</p> *@
+<table class="table">
+    @* <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Problema[0].Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Problema[0].Descricao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Problema[0].Usuario)
+            </th>
+            <th></th>
+        </tr>
+    </thead> *@
+    <tbody>
+        @foreach (var item in Model.Problema)
+        {
+            <tr>
+                <td>
+                    <a asp-page="PgCadUsuario/Details" asp-route-id="@item.Usuario.Id">@Html.DisplayFor(modelItem => item.Usuario.Nome)</a>
+                </td>
+                <td>
+                    <a asp-page="PgProblema/Details" asp-route-id="@item.Id">@Html.DisplayFor(modelItem => item.Nome)</a>    
+                </td>
+               
+                @* <div class="container">
+                    Teste tela <a asp-area="" asp-page="/PgProblema/Index">Problema</a>
+                </div> *@
+                <td>
+                    @Html.DisplayFor(modelItem => item.Descricao)
+                </td>
+                
+                @* <td>
+                    <a asp-page="./Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-page="./Details" asp-route-id="@item.Id">Details</a> |
+                    <a asp-page="./Delete" asp-route-id="@item.Id">Delete</a>
+                </td> *@
+            </tr>
+        }
+    </tbody>
+</table>

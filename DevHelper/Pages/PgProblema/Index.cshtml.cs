@@ -5,15 +5,15 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
-using DevHelper.Data.Models;
+using DevHelper.Data.Model;
 
 namespace DevHelper.Razor.Pages.PgProblema
 {
     public class IndexModel : PageModel
     {
-        private readonly DevHelper.Data.Models.DBdevhelperContext _context;
+        private readonly DevHelper.Data.Model.DBdevhelperContext _context;
 
-        public IndexModel(DevHelper.Data.Models.DBdevhelperContext context)
+        public IndexModel(DevHelper.Data.Model.DBdevhelperContext context)
         {
             _context = context;
         }
@@ -22,7 +22,8 @@ namespace DevHelper.Razor.Pages.PgProblema
 
         public async Task OnGetAsync()
         {
-            Problema = await _context.Problemas.ToListAsync();
+            Problema = await _context.Problemas
+                .Include(p => p.Usuario).ToListAsync();
         }
     }
 }

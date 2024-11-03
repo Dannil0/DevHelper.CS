@@ -1,7 +1,10 @@
+using DevHelper.Data.Interface;
 using DevHelper.Data.Interfaces;
-using DevHelper.Data.Models;
+using DevHelper.Data.Model;
+using DevHelper.Data.Repository;
 using DevHelper.Data.Repositories;
 using Microsoft.EntityFrameworkCore;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -15,9 +18,12 @@ builder.Services.AddDbContext<DBdevhelperContext>(options => options.UseSqlServe
 builder.Services.AddScoped<iProblemaRepository, ProblemaRepository>();
 builder.Services.AddScoped<iProblemaRepositoryAsync, ProblemaRepository>();
 
+builder.Services.AddScoped<iUsuarioRepository, UsuarioRepository>();
+builder.Services.AddScoped<iUsuarioRepositoryAsync, UsuarioRepository>();
+
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+// Configure the HTTP request pipeline. 
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Error");

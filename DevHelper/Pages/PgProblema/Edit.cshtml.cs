@@ -6,15 +6,15 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using DevHelper.Data.Models;
+using DevHelper.Data.Model;
 
 namespace DevHelper.Razor.Pages.PgProblema
 {
     public class EditModel : PageModel
     {
-        private readonly DevHelper.Data.Models.DBdevhelperContext _context;
+        private readonly DevHelper.Data.Model.DBdevhelperContext _context;
 
-        public EditModel(DevHelper.Data.Models.DBdevhelperContext context)
+        public EditModel(DevHelper.Data.Model.DBdevhelperContext context)
         {
             _context = context;
         }
@@ -35,6 +35,7 @@ namespace DevHelper.Razor.Pages.PgProblema
                 return NotFound();
             }
             Problema = problema;
+           ViewData["UsuarioId"] = new SelectList(_context.Usuarios, "Id", "Email");
             return Page();
         }
 

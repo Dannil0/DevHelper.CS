@@ -34,6 +34,66 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/jvsdi/Documents/CODES/DevHelper Git/DevHelper.CS/DevHelper/Pages/PgArquivoProblema/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGdBcnF1aXZvUHJvYmxlbWFcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jvsdi/Documents/CODES/DevHelper Git/DevHelper.CS/DevHelper/Pages/PgArquivoProblema/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGdBcnF1aXZvUHJvYmxlbWFcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jvsdi/Documents/CODES/DevHelper Git/DevHelper.CS/DevHelper/Pages/PgArquivoProblema/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGdBcnF1aXZvUHJvYmxlbWFcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jvsdi/Documents/CODES/DevHelper Git/DevHelper.CS/DevHelper/Pages/PgArquivoProblema/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGdBcnF1aXZvUHJvYmxlbWFcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jvsdi/Documents/CODES/DevHelper Git/DevHelper.CS/DevHelper/Pages/PgArquivoProblema/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGdBcnF1aXZvUHJvYmxlbWFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jvsdi/Documents/CODES/DevHelper Git/DevHelper.CS/DevHelper/Pages/PgArquivoSolucao/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGdBcnF1aXZvU29sdWNhb1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jvsdi/Documents/CODES/DevHelper Git/DevHelper.CS/DevHelper/Pages/PgArquivoSolucao/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGdBcnF1aXZvU29sdWNhb1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jvsdi/Documents/CODES/DevHelper Git/DevHelper.CS/DevHelper/Pages/PgArquivoSolucao/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGdBcnF1aXZvU29sdWNhb1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jvsdi/Documents/CODES/DevHelper Git/DevHelper.CS/DevHelper/Pages/PgArquivoSolucao/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGdBcnF1aXZvU29sdWNhb1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jvsdi/Documents/CODES/DevHelper Git/DevHelper.CS/DevHelper/Pages/PgArquivoSolucao/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGdBcnF1aXZvU29sdWNhb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jvsdi/Documents/CODES/DevHelper Git/DevHelper.CS/DevHelper/Pages/PgCadUsuario/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGdDYWRVc3VhcmlvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jvsdi/Documents/CODES/DevHelper Git/DevHelper.CS/DevHelper/Pages/PgCadUsuario/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGdDYWRVc3VhcmlvXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jvsdi/Documents/CODES/DevHelper Git/DevHelper.CS/DevHelper/Pages/PgCadUsuario/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGdDYWRVc3VhcmlvXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jvsdi/Documents/CODES/DevHelper Git/DevHelper.CS/DevHelper/Pages/PgCadUsuario/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGdDYWRVc3VhcmlvXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jvsdi/Documents/CODES/DevHelper Git/DevHelper.CS/DevHelper/Pages/PgCadUsuario/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGdDYWRVc3VhcmlvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/jvsdi/Documents/CODES/DevHelper Git/DevHelper.CS/DevHelper/Pages/PgProblema/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGdQcm9ibGVtYVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -52,6 +112,26 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/jvsdi/Documents/CODES/DevHelper Git/DevHelper.CS/DevHelper/Pages/PgProblema/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGdQcm9ibGVtYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jvsdi/Documents/CODES/DevHelper Git/DevHelper.CS/DevHelper/Pages/PgSolucao/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGdTb2x1Y2FvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jvsdi/Documents/CODES/DevHelper Git/DevHelper.CS/DevHelper/Pages/PgSolucao/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGdTb2x1Y2FvXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jvsdi/Documents/CODES/DevHelper Git/DevHelper.CS/DevHelper/Pages/PgSolucao/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGdTb2x1Y2FvXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jvsdi/Documents/CODES/DevHelper Git/DevHelper.CS/DevHelper/Pages/PgSolucao/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGdTb2x1Y2FvXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jvsdi/Documents/CODES/DevHelper Git/DevHelper.CS/DevHelper/Pages/PgSolucao/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGdTb2x1Y2FvXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/jvsdi/Documents/CODES/DevHelper Git/DevHelper.CS/DevHelper/Pages/Privacy.cshtml]
