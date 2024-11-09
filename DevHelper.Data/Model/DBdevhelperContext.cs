@@ -27,7 +27,7 @@ public partial class DBdevhelperContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
-        if (optionsBuilder.IsConfigured) optionsBuilder.UseSqlServer("Server=devhelperdb.c2og1m8kyirc.us-east-1.rds.amazonaws.com,1433;Database=db-devhelper2024;User Id=admin;Password=dbhelper2024;Encrypt=True;TrustServerCertificate=False;");
+        if (optionsBuilder.IsConfigured) optionsBuilder.UseSqlServer("Server=devhelperdb.c2og1m8kyirc.us-east-1.rds.amazonaws.com,1433;Database=db-devhelper2024;User Id=admin;Password=dbhelper2024;Encrypt=True;TrustServerCertificate=True;");
     }
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
