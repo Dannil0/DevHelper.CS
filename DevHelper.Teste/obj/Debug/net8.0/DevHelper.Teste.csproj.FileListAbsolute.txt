@@ -19,7 +19,6 @@ D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\Microsoft.TestPlatform.Cr
 D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
 D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
 D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\Newtonsoft.Json.dll
-D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\NuGet.Frameworks.dll
 D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\nunit.framework.dll
 D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
 D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
@@ -130,7 +129,6 @@ D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\Microsoft.IdentityModel.P
 D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
-D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\Mono.TextTemplating.dll
 D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\System.CodeDom.dll
 D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\System.Composition.AttributedModel.dll
@@ -139,14 +137,11 @@ D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\System.Composition.Hostin
 D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\System.Composition.Runtime.dll
 D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\System.Composition.TypedParts.dll
 D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
-D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\System.Drawing.Common.dll
 D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\System.IO.Pipelines.dll
 D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\System.Memory.Data.dll
 D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\System.Runtime.Caching.dll
 D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
-D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\System.Security.Permissions.dll
-D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\System.Windows.Extensions.dll
 D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
 D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
 D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
@@ -199,18 +194,10 @@ D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis
 D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
 D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
 D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
 D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\pedre\OneDrive\Documentos\GitHub\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\testhost.exe
 C:\Users\pedre\OneDrive\Documentos\GitHub\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\testhost.dll
 C:\Users\pedre\OneDrive\Documentos\GitHub\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\NUnit3.TestAdapter.dll
@@ -644,3 +631,22 @@ C:\Users\jvsdi\Documents\CODES\DevHelper Git\DevHelper.CS\DevHelper.Teste\bin\De
 C:\Users\jvsdi\Documents\CODES\DevHelper Git\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
 C:\Users\jvsdi\Documents\CODES\DevHelper Git\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
 C:\Users\jvsdi\Documents\CODES\DevHelper Git\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\nunit.framework.legacy.dll
+D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\System.ClientModel.dll
+D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\repos\DevHelper.CS\DevHelper.Teste\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\repos\DevHelper.CS\DevHelper.Teste\obj\Debug\net8.0\DevHelper.Teste.sourcelink.json

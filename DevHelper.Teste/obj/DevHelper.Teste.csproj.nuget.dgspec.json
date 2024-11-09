@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper.Teste\\DevHelper.Teste.csproj": {}
+    "D:\\repos\\DevHelper.CS\\DevHelper.Teste\\DevHelper.Teste.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper.Teste\\DevHelper.Teste.csproj": {
+    "D:\\repos\\DevHelper.CS\\DevHelper.Teste\\DevHelper.Teste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper.Teste\\DevHelper.Teste.csproj",
+        "projectUniqueName": "D:\\repos\\DevHelper.CS\\DevHelper.Teste\\DevHelper.Teste.csproj",
         "projectName": "DevHelper.Teste",
-        "projectPath": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper.Teste\\DevHelper.Teste.csproj",
-        "packagesPath": "C:\\Users\\jvsdi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper.Teste\\obj\\",
+        "projectPath": "D:\\repos\\DevHelper.CS\\DevHelper.Teste\\DevHelper.Teste.csproj",
+        "packagesPath": "C:\\Users\\danni\\.nuget\\packages\\",
+        "outputPath": "D:\\repos\\DevHelper.CS\\DevHelper.Teste\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\jvsdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\danni\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
