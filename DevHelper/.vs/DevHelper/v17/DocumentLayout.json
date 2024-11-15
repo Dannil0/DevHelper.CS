@@ -3,51 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6F849E4C-C83C-4FAD-8D87-1BB205164B18}|..\\DevHelper.Data\\DevHelper.Data.csproj|c:\\users\\jvsdi\\documents\\codes\\devhelper git\\devhelper.cs\\devhelper.data\\model\\dbdevhelpercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|c:\\users\\jvsdi\\documents\\codes\\devhelper git\\devhelper.cs\\devhelper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|c:\\users\\jvsdi\\documents\\codes\\devhelper git\\devhelper.cs\\devhelper\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|c:\\users\\jvsdi\\documents\\codes\\devhelper git\\devhelper.cs\\devhelper\\pages\\pglogin\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|solutionrelative:pages\\pglogin\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6F849E4C-C83C-4FAD-8D87-1BB205164B18}|..\\DevHelper.Data\\DevHelper.Data.csproj|c:\\users\\jvsdi\\documents\\codes\\devhelper git\\devhelper.cs\\devhelper.data\\model\\dbdevhelpercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|c:\\users\\jvsdi\\documents\\codes\\devhelper git\\devhelper.cs\\devhelper\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|c:\\users\\jvsdi\\documents\\codes\\devhelper git\\devhelper.cs\\devhelper\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|c:\\users\\jvsdi\\documents\\codes\\devhelper git\\devhelper.cs\\devhelper\\pages\\pgproblema\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|solutionrelative:pages\\pgproblema\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|c:\\users\\jvsdi\\documents\\codes\\devhelper git\\devhelper.cs\\devhelper\\pages\\pgcadusuario\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|solutionrelative:pages\\pgcadusuario\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|c:\\users\\jvsdi\\documents\\codes\\devhelper git\\devhelper.cs\\devhelper\\pages\\pgcadusuario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|solutionrelative:pages\\pgcadusuario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|c:\\users\\jvsdi\\documents\\codes\\devhelper git\\devhelper.cs\\devhelper\\pages\\pglogin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|solutionrelative:pages\\pglogin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|c:\\users\\jvsdi\\documents\\codes\\devhelper git\\devhelper.cs\\devhelper\\pages\\pgsolucao\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|solutionrelative:pages\\pgsolucao\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|c:\\users\\jvsdi\\documents\\codes\\devhelper git\\devhelper.cs\\devhelper\\pages\\shared\\_menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|solutionrelative:pages\\shared\\_menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|c:\\users\\jvsdi\\documents\\codes\\devhelper git\\devhelper.cs\\devhelper\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|c:\\users\\jvsdi\\documents\\codes\\devhelper git\\devhelper.cs\\devhelper\\pages\\pgproblema\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|solutionrelative:pages\\pgproblema\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|c:\\users\\jvsdi\\documents\\codes\\devhelper git\\devhelper.cs\\devhelper\\pages\\pgproblema\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,6 +34,49 @@
       "RelativeMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|solutionrelative:pages\\pgproblema\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|c:\\users\\jvsdi\\documents\\codes\\devhelper git\\devhelper.cs\\devhelper\\pages\\pgarquivoproblema\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|solutionrelative:pages\\pgarquivoproblema\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|c:\\users\\jvsdi\\documents\\codes\\devhelper git\\devhelper.cs\\devhelper\\pages\\pglogin\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|solutionrelative:pages\\pglogin\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|c:\\users\\jvsdi\\documents\\codes\\devhelper git\\devhelper.cs\\devhelper\\pages\\pglogin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|solutionrelative:pages\\pglogin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|c:\\users\\jvsdi\\documents\\codes\\devhelper git\\devhelper.cs\\devhelper\\pages\\pgcadusuario\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|solutionrelative:pages\\pgcadusuario\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|c:\\users\\jvsdi\\documents\\codes\\devhelper git\\devhelper.cs\\devhelper\\pages\\pgcadusuario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|solutionrelative:pages\\pgcadusuario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|c:\\users\\jvsdi\\documents\\codes\\devhelper git\\devhelper.cs\\devhelper\\pages\\pgproblema\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|solutionrelative:pages\\pgproblema\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F849E4C-C83C-4FAD-8D87-1BB205164B18}|..\\DevHelper.Data\\DevHelper.Data.csproj|c:\\users\\jvsdi\\documents\\codes\\devhelper git\\devhelper.cs\\devhelper.data\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|c:\\users\\jvsdi\\documents\\codes\\devhelper git\\devhelper.cs\\devhelper\\pages\\shared\\_menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|solutionrelative:pages\\shared\\_menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|c:\\users\\jvsdi\\documents\\codes\\devhelper git\\devhelper.cs\\devhelper\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|c:\\users\\jvsdi\\documents\\codes\\devhelper git\\devhelper.cs\\devhelper\\pages\\pgsolucao\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|solutionrelative:pages\\pgsolucao\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|c:\\users\\jvsdi\\documents\\codes\\devhelper git\\devhelper.cs\\devhelper\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|c:\\users\\jvsdi\\documents\\codes\\devhelper git\\devhelper.cs\\devhelper\\pages\\pgsolucao\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|solutionrelative:pages\\pgsolucao\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -66,16 +85,8 @@
       "RelativeMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|solutionrelative:pages\\pgcadusuario\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|c:\\users\\jvsdi\\documents\\codes\\devhelper git\\devhelper.cs\\devhelper\\pages\\pgproblema\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|solutionrelative:pages\\pgproblema\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|c:\\users\\jvsdi\\documents\\codes\\devhelper git\\devhelper.cs\\devhelper\\pages\\pgsolucao\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|solutionrelative:pages\\pgsolucao\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|c:\\users\\jvsdi\\documents\\codes\\devhelper git\\devhelper.cs\\devhelper\\pages\\pgproblema\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EF01B28-5567-4AAA-8429-7B5EE1B40DD4}|DevHelper.Razor.csproj|solutionrelative:pages\\pgproblema\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -85,7 +96,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -93,15 +104,90 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DBdevhelperContext.cs",
-              "DocumentMoniker": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper.Data\\Model\\DBdevhelperContext.cs",
-              "RelativeDocumentMoniker": "..\\DevHelper.Data\\Model\\DBdevhelperContext.cs",
-              "ToolTip": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper.Data\\Model\\DBdevhelperContext.cs",
-              "RelativeToolTip": "..\\DevHelper.Data\\Model\\DBdevhelperContext.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwB0AAADrAAAA",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\Pages\\PgCadUsuario\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\PgCadUsuario\\Create.cshtml",
+              "ToolTip": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\Pages\\PgCadUsuario\\Create.cshtml",
+              "RelativeToolTip": "Pages\\PgCadUsuario\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T19:15:07.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\Pages\\PgProblema\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\PgProblema\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\Pages\\PgProblema\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\PgProblema\\Create.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T20:27:47.9Z",
+              "WhenOpened": "2024-11-03T19:44:35.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T18:16:46.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\Pages\\PgProblema\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\PgProblema\\Create.cshtml",
+              "ToolTip": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\Pages\\PgProblema\\Create.cshtml",
+              "RelativeToolTip": "Pages\\PgProblema\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T17:42:57.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\Pages\\PgProblema\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\PgProblema\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\Pages\\PgProblema\\Index.cshtml",
+              "RelativeToolTip": "Pages\\PgProblema\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T00:25:29.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\Pages\\PgProblema\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\PgProblema\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\Pages\\PgProblema\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\PgProblema\\Index.cshtml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T19:14:38.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T20:31:36.008Z",
               "EditorCaption": ""
             },
             {
@@ -112,44 +198,45 @@
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAADYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAByAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-11-08T20:01:14.125Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\Pages\\PgSolucao\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pages\\PgSolucao\\Index.cshtml",
-              "ToolTip": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\Pages\\PgSolucao\\Index.cshtml",
-              "RelativeToolTip": "Pages\\PgSolucao\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T00:28:45.417Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\Pages\\PgProblema\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pages\\PgProblema\\Index.cshtml",
-              "ToolTip": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\Pages\\PgProblema\\Index.cshtml",
-              "RelativeToolTip": "Pages\\PgProblema\\Index.cshtml",
-              "ViewState": "AQIAABwAAAAAAAAAAAAowDUAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T00:25:29.616Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "DBdevhelperContext.cs",
+              "DocumentMoniker": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper.Data\\Model\\DBdevhelperContext.cs",
+              "RelativeDocumentMoniker": "..\\DevHelper.Data\\Model\\DBdevhelperContext.cs",
+              "ToolTip": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper.Data\\Model\\DBdevhelperContext.cs",
+              "RelativeToolTip": "..\\DevHelper.Data\\Model\\DBdevhelperContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T20:27:47.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\Pages\\PgLogin\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\PgLogin\\Create.cshtml",
+              "ToolTip": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\Pages\\PgLogin\\Create.cshtml",
+              "RelativeToolTip": "Pages\\PgLogin\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T00:10:45.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\Pages\\PgLogin\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\PgLogin\\Create.cshtml.cs",
               "ToolTip": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\Pages\\PgLogin\\Create.cshtml.cs",
               "RelativeToolTip": "Pages\\PgLogin\\Create.cshtml.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAYwCcAAAAuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-07T00:11:42.956Z"
             },
@@ -157,17 +244,53 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\Pages\\PgLogin\\Create.cshtml",
-              "RelativeDocumentMoniker": "Pages\\PgLogin\\Create.cshtml",
-              "ToolTip": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\Pages\\PgLogin\\Create.cshtml",
-              "RelativeToolTip": "Pages\\PgLogin\\Create.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\Pages\\PgArquivoProblema\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\PgArquivoProblema\\Create.cshtml",
+              "ToolTip": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\Pages\\PgArquivoProblema\\Create.cshtml",
+              "RelativeToolTip": "Pages\\PgArquivoProblema\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T00:10:45.439Z"
+              "WhenOpened": "2024-11-13T21:38:53.535Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\Pages\\PgCadUsuario\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\PgCadUsuario\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\Pages\\PgCadUsuario\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\PgCadUsuario\\Create.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T19:20:34.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper.Data\\Repository\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "..\\DevHelper.Data\\Repository\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper.Data\\Repository\\UsuarioRepository.cs",
+              "RelativeToolTip": "..\\DevHelper.Data\\Repository\\UsuarioRepository.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowBIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T18:15:35.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\Pages\\PgProblema\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\PgProblema\\Details.cshtml",
+              "ToolTip": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\Pages\\PgProblema\\Details.cshtml",
+              "RelativeToolTip": "Pages\\PgProblema\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T18:40:46.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "_Menu.cshtml",
               "DocumentMoniker": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\Pages\\Shared\\_Menu.cshtml",
               "RelativeDocumentMoniker": "Pages\\Shared\\_Menu.cshtml",
@@ -179,91 +302,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\Pages\\PgCadUsuario\\Create.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\PgCadUsuario\\Create.cshtml.cs",
-              "ToolTip": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\Pages\\PgCadUsuario\\Create.cshtml.cs",
-              "RelativeToolTip": "Pages\\PgCadUsuario\\Create.cshtml.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAYwB8AAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T19:20:34.595Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 17,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\Pages\\Index.cshtml",
-              "RelativeToolTip": "Pages\\Index.cshtml",
-              "ViewState": "AQIAABcAAAAAAAAAAIBJwCkAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\Pages\\PgSolucao\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\PgSolucao\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\Pages\\PgSolucao\\Index.cshtml",
+              "RelativeToolTip": "Pages\\PgSolucao\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-03T18:16:46.657Z"
+              "WhenOpened": "2024-11-07T00:28:45.417Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\Pages\\PgCadUsuario\\Create.cshtml",
-              "RelativeDocumentMoniker": "Pages\\PgCadUsuario\\Create.cshtml",
-              "ToolTip": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\Pages\\PgCadUsuario\\Create.cshtml",
-              "RelativeToolTip": "Pages\\PgCadUsuario\\Create.cshtml",
-              "ViewState": "AQIAABsAAAAAAAAAAIBJwDAAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-03T19:15:07.487Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 16,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAIBJwBUAAAAIAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBpwBUAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-03T17:42:36.665Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 18,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
               "ToolTip": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\wwwroot\\css\\site.css",
               "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AQIAACoAAAAAAAAAAIBJwDsAAAASAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAIBpwDsAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-11-03T19:38:32.974Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\Pages\\PgProblema\\Create.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\PgProblema\\Create.cshtml.cs",
-              "ToolTip": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\Pages\\PgProblema\\Create.cshtml.cs",
-              "RelativeToolTip": "Pages\\PgProblema\\Create.cshtml.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBsAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T19:44:35.819Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\Pages\\PgProblema\\Create.cshtml",
-              "RelativeDocumentMoniker": "Pages\\PgProblema\\Create.cshtml",
-              "ToolTip": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\Pages\\PgProblema\\Create.cshtml",
-              "RelativeToolTip": "Pages\\PgProblema\\Create.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAIBJwB8AAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-03T17:42:57.422Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\Pages\\PgSolucao\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\PgSolucao\\Create.cshtml.cs",
@@ -275,43 +350,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\Pages\\PgCadUsuario\\Details.cshtml",
               "RelativeDocumentMoniker": "Pages\\PgCadUsuario\\Details.cshtml",
               "ToolTip": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\Pages\\PgCadUsuario\\Details.cshtml",
               "RelativeToolTip": "Pages\\PgCadUsuario\\Details.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAIBJwCMAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAACBjwCMAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-03T19:45:54.773Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\Pages\\PgProblema\\Details.cshtml",
-              "RelativeDocumentMoniker": "Pages\\PgProblema\\Details.cshtml",
-              "ToolTip": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\Pages\\PgProblema\\Details.cshtml",
-              "RelativeToolTip": "Pages\\PgProblema\\Details.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAIBJwBgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-03T18:40:46.385Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Details.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\Pages\\PgProblema\\Details.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\PgProblema\\Details.cshtml.cs",
-              "ToolTip": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\Pages\\PgProblema\\Details.cshtml.cs",
-              "RelativeToolTip": "Pages\\PgProblema\\Details.cshtml.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwCcAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T18:40:06.766Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\jvsdi\\Documents\\CODES\\DevHelper Git\\DevHelper.CS\\DevHelper\\Pages\\PgSolucao\\Create.cshtml",
               "RelativeDocumentMoniker": "Pages\\PgSolucao\\Create.cshtml",

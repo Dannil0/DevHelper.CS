@@ -1957,3 +1957,5 @@ C:\Users\jvsdi\Documents\CODES\DevHelper Git\DevHelper.CS\DevHelper\bin\Debug\ne
 C:\Users\jvsdi\Documents\CODES\DevHelper Git\DevHelper.CS\DevHelper\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
 C:\Users\jvsdi\Documents\CODES\DevHelper Git\DevHelper.CS\DevHelper\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
 C:\Users\jvsdi\Documents\CODES\DevHelper Git\DevHelper.CS\DevHelper\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\jvsdi\Documents\CODES\DevHelper Git\DevHelper.CS\DevHelper\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\jvsdi\Documents\CODES\DevHelper Git\DevHelper.CS\DevHelper\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
